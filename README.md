@@ -1,2 +1,3 @@
 # CNN
-CNN - Network Optimization Techniques
+CNN - Network Pruning
+
