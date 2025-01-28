@@ -1,0 +1,3 @@
+fpath='C:\Users\leega\OneDrive\Desktop\images';
+tdata=fullfile(fpath,'224x224');
+traindata=imageDatastore(tdata,'IncludeSubfolders',true,'LabelSource','foldernames');
